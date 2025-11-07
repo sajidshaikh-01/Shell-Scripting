@@ -1,4 +1,4 @@
-# 🐚 Shell Scripting - Day 1 Summary
+# Shell Scripting - Day 1 Summary
 
 ## 🔹 What is Shell Scripting?
 Shell scripting is a way to automate Linux/Unix commands by writing them inside a file (script).  
@@ -59,7 +59,7 @@ Used for multiple condition handling in a clean and readable format.
 
 ---
 
-## 🧠 Summary Table
+##  Summary Table
 
 | Topic | Description |
 |--------|--------------|
