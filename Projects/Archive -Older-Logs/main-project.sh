@@ -3,7 +3,7 @@
 
 
 #variables
-BASE=/root/shell-script
+BASE=/root/shell-script/projects
 DAYS=10
 DEPTH=1
 RUN=0
