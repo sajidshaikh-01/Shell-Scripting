@@ -26,7 +26,7 @@ fi
 
 # find the list of files larger than 20MB
 
-for i in 'find $BASE -maxdepth 4DEPTH -type -size +20MB'
+for i in 'find $BASE -maxdepth 4DEPTH -type -size +20M'
 do
         if [ $RUN -eq 0]
         then
