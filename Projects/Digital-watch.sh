@@ -1,4 +1,5 @@
 #!/bin/bash
+#this is digital watch project with infinite loop
 Red=$'\e[1;31m'
 Green=$'\e[1;32m'
 Blue=$'\e[1;34'
